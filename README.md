@@ -24,7 +24,7 @@ For example, LISTEN and SILENT are anagrams.
 
 # How to Run
 
- 1. Compile the Java file
+ 1. Compile the Java file = 
     Eclipse
 
 
